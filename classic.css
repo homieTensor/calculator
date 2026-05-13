@@ -1,0 +1,8 @@
+#calculator {
+    border: 1px black;
+}
+
+#output {
+    width: 30%;
+    text-align: right;
+}
