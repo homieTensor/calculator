@@ -1,8 +1,21 @@
 #calculator {
-    border: 1px black;
+    border: 1px solid black;
+    width: 530px;
+    height: 700px;
+    text-align: center;
 }
 
 #output {
-    width: 30%;
+    border: 1px solid black;
+    margin: 12px;
+    width:auto;
     text-align: right;
+    height:70px;
+}
+#input{
+    width: auto;
+}
+input[type="button"]{
+    width: 123px;
+    height:97px;
 }
